@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Font;
+  font-weight: 400;
+  src: url('/fonts/TinkoffSans.woff2');
+}
+
+body .v-application {
+  font-family: Font, Roboto, sans-serif;
+}
